@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 //라라
+    //라라라라ㅏ라
     <RadioGroup
         android:id="@+id/radioGroup"
         android:layout_width="0dp"

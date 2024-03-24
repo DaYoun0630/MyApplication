@@ -38,6 +38,9 @@ class MainActivity : AppCompatActivity() {
                     val goThird = Intent(this, MainActivity3::class.java)
                     startActivity(goThird)
 
+
+                    finish()
+
                 }
             }
         }
